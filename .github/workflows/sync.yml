@@ -1,11 +1,5 @@
 name: Sync feeds via revett/miniflux-sync
 
-# on:
-#   push:
-#     branches:
-#       - main
-
-# TODO: Remove after testing.
 on: [push]
 
 jobs:
@@ -30,4 +24,9 @@ jobs:
         env:
           MINIFLUX_SYNC_ENDPOINT: ${{ secrets.MINIFLUX_SYNC_ENDPOINT }}
           MINIFLUX_SYNC_API_KEY: ${{ secrets.MINIFLUX_SYNC_API_KEY }}
-        run: ./miniflux-sync --your-arguments-here
+        run: |
+          if [ "${{ github.ref_name }}" == "main" ]; then
+            ./miniflux-sync sync
+          else
+            ./miniflux-sync sync --dry-run
+          fi
