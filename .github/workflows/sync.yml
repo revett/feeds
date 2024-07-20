@@ -26,7 +26,7 @@ jobs:
           MINIFLUX_SYNC_API_KEY: ${{ secrets.MINIFLUX_SYNC_API_KEY }}
         run: |
           if [ "${{ github.ref_name }}" == "main" ]; then
-            ./miniflux-sync sync
+            ./miniflux-sync sync --path feeds.yml
           else
-            ./miniflux-sync sync --dry-run
+            ./miniflux-sync sync --dry-run --path feeds.yml
           fi
