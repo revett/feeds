@@ -1,41 +1,34 @@
 Blog:
-  - https://www.aitidbits.ai/feed # AI Tidbits
   - https://arestlesstransplant.substack.com/feed # Foster Huntington
   - https://arslan.io/rss # @fatih
   - https://www.latent.space/feed # Latent Space
   - https://www.twopct.com/feed # Michael Easter (Two Percent)
+  - https://rss.beehiiv.com/feeds/IDFzfYwUH1.xml # Joan Westenberg
 HN:
-  - https://hnrss.org/frontpage?points=250
+  # As of July 2025, this is around ~20 posts per week which seems like a good balance
+  # Use "points>500" as the search query on https://hn.algolia.com to see the number of posts
+  - https://hnrss.org/frontpage?points=500
 YouTube:
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCMb0O2CdPBNi-QqPk5T3gsQ # Adam Ondra
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCNJ1Ymd5yFuUPtn21xtRbbw # AI Explained
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCB6s-V1Ls4vc_mXEF-4Lz_Q # Arvid Kahl
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCzRjzjxudb_BDbUlto8vHXg # Austin Augie
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCm325cMiw9B15xl22_gr6Dw # Beau Miles
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC-vlZFFRyWKx-d3LpoAhNfg # Ben Is Running
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCtUId5WFnN82GdDy7DgaQ7w # Better Ideas
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCvQECJukTDE2i6aCoMnS-Vg # Big Think
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCIRjdHLsHq6xdtAHAmoueqg # Bouldering Bobat
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCtinbF-Q-fVthA0qrFQTgXQ # Casey Neistat
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC6_8mLw-CglRDk3y8HKGnNQ # Daniel Titchener
   - https://www.youtube.com/feeds/videos.xml?channel_id=UChcmKGMMMemwb291yVEtXHA # Dave MacLeod
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UC7yZ6keOGsvERMp2HaEbbXQ # devaslife
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCg97Ni73ozwdoSytGSqTRyA # Framelines
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCIqKhNfVGWlf-7qVCw-CsBg # Francis Bourgeois
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCAW9Rjp-u7nGNtZUydKVJHg # Gettin’ Off Grid
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCxJ1WdVTzrZYZRGWWriyOgQ # Huckberry
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCPsuhVK1YjAhYBJFsEAgOGQ # Jen Lewis
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCSYG0DaTjEpo9LlE-f_1L1g # Kevin Rose
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCDsElQQt_gCZ9LgnW-7v-cQ # Kirsten Dirksen
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCpnuadQ_w3r6f4Q_NRlqd-w # Kraig Adams
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UChpleBmo18P08aKCIgti38g # Matt Wolfe
   - https://www.youtube.com/feeds/videos.xml?channel_id=UC12JO2IPlEViR-o6SLXKx1A # Marc Lou
   - https://www.youtube.com/feeds/videos.xml?channel_id=UClkUhTjFbQbtGfS14h9Vw5g # Martijn Doolaard
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCQjBsscIa_mgEnSvWpm_9vw # Odysseas
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCcGXEidw0qjNdq7Gii8gHgg # Project Kamp
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCIq1gMax9m-25lMGU8a4nsg # Ran to Japan
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UC3KEoMzNz8eYnwBC34RaKCQ # Simone Giertz
-  - https://www.youtube.com/feeds/videos.xml?channel_id=UCdARRyTPX1Y-IAG2Ojp6HgA # tatsuki
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCbRP3c757lWg9M-U7TyEkXA # Theo - t3․gg
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCznv7Vf9nBdJYvBagFdAHWw # Tim Ferriss
   - https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg # Two Minute Papers
